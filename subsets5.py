@@ -1,3 +1,4 @@
+#this iterates it once, the other python file does it over multiple iterations
 from itertools import combinations
 import time
 
