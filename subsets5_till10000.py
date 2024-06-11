@@ -1,3 +1,4 @@
+#this iterates it 20 times, adding 5 more random elements each time
 from itertools import combinations
 import random
 import time
